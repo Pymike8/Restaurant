@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\.NET\\Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|c:\\workspace\\.net\\restaurant\\restaurant\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|C:\\workspace\\.NET\\Restaurant\\restaurant\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|C:\\workspace\\.NET\\Restaurant\\restaurant\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|C:\\workspace\\.NET\\Restaurant\\restaurant\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adomi\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|C:\\workspace\\.NET\\Restaurant\\restaurant\\imagenes\\fondo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\imagenes\\fondo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|C:\\workspace\\.NET\\Restaurant\\restaurant\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|C:\\workspace\\.NET\\Restaurant\\restaurant\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822A22F0-572B-42D3-B219-563697982235}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\adomi\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\adomi\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\adomi\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\Users\\adomi\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [Solo lectura]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAWAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:53:10.438Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fondo.png - PNG [3301x2551, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\Imagenes\\fondo.png",
+              "RelativeDocumentMoniker": "Restaurant\\Imagenes\\fondo.png",
+              "ToolTip": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\Imagenes\\fondo.png - PNG [3301x2551, 32 bits, PNG]",
+              "RelativeToolTip": "Restaurant\\Imagenes\\fondo.png - PNG [3301x2551, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-06T03:53:51.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\View\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\LoginView.xaml",
+              "ToolTip": "Restaurant/View/LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "OverriddenGroupName": "Restaurant\\View",
+              "OverriddenToolTip": "Restaurant/View/LoginView.xaml",
+              "WhenOpened": "2025-04-06T00:39:42.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\MainWindow.xaml",
+              "ToolTip": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\MainWindow.xaml",
+              "RelativeToolTip": "Restaurant\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-06T00:26:18.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\View\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\LoginView.xaml.cs",
+              "ToolTip": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\View\\LoginView.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\LoginView.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:42:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:26:17.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\App.xaml.cs",
+              "ToolTip": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\App.xaml.cs",
+              "RelativeToolTip": "Restaurant\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:34:47.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\App.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\App.xaml",
+              "ToolTip": "C:\\workspace\\.NET\\Restaurant\\Restaurant\\App.xaml",
+              "RelativeToolTip": "Restaurant\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-06T00:33:36.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
